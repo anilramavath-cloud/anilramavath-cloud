@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Anil Ramavath
+💼 GIOC Analyst| ☁️ Cloud Enthusiast | 🚀 Aspiring Azure Engineer
+I'm currently working as a Technical Support Representative at IOC, with over 3.3 years of experience in user administration using Active Directory, Office 365, and Azure Intune. I specialize in managing access to enterprise applications, handling incidents, and supporting event management tasks.
 
-<!--
-**anilramavath-cloud/anilramavath-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Tools
 
-Here are some ideas to get you started:
+Microsoft Technologies: Active Directory, Office 365, Azure Intune
+Cloud Platforms: Azure (learning), Microsoft 365
+IT Operations: Incident Management, RITM creation, SLA adherence
+Basic Scripting: PowerShell (learning)
+Monitoring & Alerts: Event Management, Storage Alerts, Cache Clearing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📈 Career Goals
+I'm passionate about cloud technologies and currently building my skills in Azure, PowerShell, and Microsoft 365 administration. My goal is to transition into a Junior Microsoft Engineer role and contribute to scalable cloud solutions.
+
+📫 Connect with Me
+
+Email: anil.ramavath.cloud@gmail.com
+LinkedIn: (Link to be added once your profile is ready)
+Portfolio Website: (Coming soon)
